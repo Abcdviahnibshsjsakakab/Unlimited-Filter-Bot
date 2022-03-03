@@ -54,7 +54,7 @@ See <i>/help</i> for commands and more details.</b>
 
     ABOUT_MSG = """⭕️<b>My Name :  DQ.BOT_✪࿐ @V</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @Vis_hnu_bot
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
